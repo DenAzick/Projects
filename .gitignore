@@ -1,0 +1,85 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+*.dotnet
+*.vs
+.vscode
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.cache
+*.csproj.user
+*.log
+*.dmg
+*.mdf
+*.ldf
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Aa][Rr][Tt]/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Ll]og/
+TestResults/
+*.TestResults/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nupkg
+*.vscode/
+.vscode/
+
+# Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# Local history for JetBrains Rider
+.idea/.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.cache
+*.csproj.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Web and build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Sensitive files
+*.env
+*.secret
