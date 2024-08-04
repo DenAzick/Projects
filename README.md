@@ -1,5 +1,5 @@
 # Тестовые проекты
 Этот репозиторий содержит различные тестовые проекты, созданные для обучения, экспериментов и демонстрации навыков.
-# 1. Project: BookStore
+# 1. Project: BookStore (in progress)
 <img src="logos/bookstore.png" alt="Логотип проекта" width="200" height="200">
 
