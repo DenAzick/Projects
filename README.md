@@ -18,3 +18,4 @@
 
 ### Установка и запуск
 Для запуска проекта потребуется Docker и Kubernetes.
+https://github.com/DenAzick/BookStore.git
